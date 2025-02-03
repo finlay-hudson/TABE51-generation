@@ -16,7 +16,7 @@ an initial clip of an object without occlusion and then overlay a second clip fe
 compositing yields realistic video sequences with natural motion and highly accurate ground truth masks, allowing models
 to be evaluated on how well they handle occluded objects in authentic scenarios.
 
-![door_walkthrough.gif](assets/door_walkthrough.gif)
+<img src="assets/door_walkthrough.gif" alt="Door Walkthrough GIF" width="1400" height="auto">
 
 ## Setup
 
