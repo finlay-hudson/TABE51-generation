@@ -144,12 +144,14 @@ Note: This will run all top level names within the `config.data_root_dir / confi
 
 If you utilise our code and/or dataset, please consider citing our paper:
 
+```
 @article{hudson2024track,
   title={Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation},
   author={Hudson, Finlay GC and Smith, William AP},
   journal={arXiv preprint arXiv:2411.19210},
   year={2024}
 }
+```
 
 ## Misc 
 
