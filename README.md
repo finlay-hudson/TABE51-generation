@@ -4,7 +4,7 @@
 
 University of York
 
-[Paper](https://arxiv.org/pdf/2411.19210) | [Project Page](https://finlay-hudson.github.io/tabe/) | [TABE codebase - COMING SOON]() | [TABE-51 Dataset - COMING SOON]() 
+[Paper](https://arxiv.org/pdf/2411.19210) | [Project Page](https://finlay-hudson.github.io/tabe/) | [TABE Codebase](https://github.com/finlay-hudson/TABE) | [TABE-51 Dataset - COMING SOON]() 
 
 ## Abstract
 
